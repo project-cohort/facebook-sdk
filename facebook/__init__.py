@@ -55,6 +55,7 @@ VALID_API_VERSIONS = [
     "3.0",
     "3.1",
     "3.2",
+    "4.0",
 ]
 VALID_SEARCH_TYPES = ["place", "placetopic"]
 
